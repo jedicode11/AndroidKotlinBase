@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ActivityRabbit</string>
+    <string name="activity_one">THIS IS THE WHITE RABBIT FRONT DOOR</string>
+    <string name="second_activity">IF SHOWN THEN YOU ARE IN</string>
+    <string name="button_go_to_second_part">Go next</string>
+    <string name="button_To_Start">Go to Start</string>
+
+</resources>
