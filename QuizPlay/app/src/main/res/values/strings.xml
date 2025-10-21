@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">QuizPlay</string>
+    <string name="quiz_play">Quiz Play</string>
+    <string name="welcome">Welcome</string>
+    <string name="enter_your_name">Kindly enter your name</string>
+    <string name="name">Name</string>
+    <string name="go">Go</string>
+    <string name="image_flag">Image Flag</string>
+    <string name="check">Check</string>
+    <string name="result_activity">Result</string>
+    <string name="image_trophy">Image</string>
+    <string name="nice_one_congratulations">Nice one, Congratulations</string>
+    <string name="username">Username</string>
+    <string name="finish">FINISH</string>
+</resources>
