@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerExp</string>
+    <string name="an_item">An Item</string>
+    <string name="description">Description</string>
+    <string name="the_place_is_here">The Place is here</string>
+    <string name="where_the_skill_is_set">Where the skill is set</string>
+</resources>
