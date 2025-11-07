@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NavigationDrawer</string>
+    <string name="text_menu_message">Menu Message</string>
+    <string name="text_menu_chat">Chat Message</string>
+    <string name="text_menu_profile">Profile Message</string>
+    <string name="text_menu_send">Send Message</string>
+    <string name="text_menu_share">Share Message</string>
+    <string name="test_menu_communicate">Communicate</string>
+    <string name="rufus">RUFUS</string>
+    <string name="nav_view">Nav View</string>
+    <string name="the_text">The Text</string>
+    <string name="jeanClaude">jeanclaude@abv.bg</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="message_fragment">Message Fragment</string>
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="chat_fragment">Chat Fragment</string>
+</resources>
