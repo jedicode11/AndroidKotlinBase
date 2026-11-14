@@ -8,7 +8,6 @@ import androidx.appcompat.app.AppCompatActivity
 
 class MainActivity : AppCompatActivity() {
 
-    private val inchValue = 2.54
     private lateinit var enterInches: EditText
     private lateinit var convertButton: Button
     private lateinit var textViewCentimeters: TextView
@@ -21,13 +20,8 @@ class MainActivity : AppCompatActivity() {
         textViewCentimeters = findViewById(R.id.textViewConvert)
 
         convertButton.setOnClickListener {
-
-            if (!enterInches.text.toString().isEmpty()) {
-                val result = enterInches.text.toString().toDouble() * inchValue
-                textViewCentimeters.text = result.toString()
-            } else {
-                textViewCentimeters.text = getString(R.string.text)
-            }
+            val centimeters = inchesToCentimeters(enterInches.text.toString(), enterInches.textLocale)
+            textViewCentimeters.text = centimeters?.toString() ?: getString(R.string.invalid_inches)
         }
     }
 }

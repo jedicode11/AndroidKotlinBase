@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">UnitConvert</string>
-    <string name="button_convert">Convert</string>>
-    <string name="text">Please enter number</string>>
+    <string name="button_convert">Convert</string>
+    <string name="input_inches">Input inches</string>
+    <string name="invalid_inches">Enter a valid number of inches</string>
 </resources>
